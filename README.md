@@ -3,6 +3,8 @@ Hacker News Now
 
 **Hacker News Now** is a cross-platform application that runs lets you read the latest and greatest of HackerNews. It supports Android, iOS, Windows Phone and Window.
 
+**Why?** Because I want to learn.
+
 What API does this  use?
 --------------
 
