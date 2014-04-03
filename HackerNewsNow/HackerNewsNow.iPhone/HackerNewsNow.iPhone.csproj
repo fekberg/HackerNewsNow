@@ -115,5 +115,11 @@
     <BundleResource Include="Resources\second.png" />
     <BundleResource Include="Resources\second%402x.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HackerNewsNow.Shared\HackerNewsNow.Shared.csproj">
+      <Project>{F9D19374-865E-47FC-B9BE-15394BB07096}</Project>
+      <Name>HackerNewsNow.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />
 </Project>
